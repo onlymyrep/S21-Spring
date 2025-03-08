@@ -4,7 +4,7 @@
   "description": "Игра 'Крестики-нолики' с поздравлением на 8 Марта",
   "main": "src/index.js",
   "scripts": {
-    "start": "npx serve -s dist --no-clipboard"
+    "start": "npx serve -s dist --single --no-clipboard"
   },
   "dependencies": {
     "serve": "^14.2.4"
